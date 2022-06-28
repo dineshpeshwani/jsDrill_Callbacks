@@ -11,8 +11,9 @@
     Problem 1:
     
     Using callbacks and the fs module's asynchronous functions, do the following:
-        1. Create a directory of random JSON files
+        1. Create a directory of random JSON files = 
         2. Delete those files simultaneously 
+        structure = create a folder -> create random json files -> Delete files = total 3 functions for 3 actions and one more function to call these functions.
 */
 
 /*
